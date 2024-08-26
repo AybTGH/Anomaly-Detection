@@ -25,11 +25,11 @@ The repository includes synthetic and real-world time series datasets, spanning 
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/anomaly-detection-time-series.git
+    git clone https://github.com/AybTGH/Anomaly-Detection.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd anomaly-detection-time-series
+    cd Anomaly-Detection
     ```
 3. Install the required libraries:
     ```bash
